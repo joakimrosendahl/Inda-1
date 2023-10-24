@@ -1,5 +1,5 @@
 # Inda-1
-Testing the first lab the course 1337 at KTH
+Testing the first lab the course 1337 at KTH. My objective is to increas my familiarity with several different programing languages in a relatively easy way.
 
 Down here is the lab description
 
@@ -23,3 +23,11 @@ Assistant's note: Note that the header of average differs from the two previous 
 
 Exercise 1.6 -- don't forget to git!
 When you are done with your assignment, you must push it to your repository on Github. If you don't do this, any changes you have made will only be present on your local machine and your TA will not be able to grade your assignment. If you are uncertain how to push your files, we have provided you with a brief walktrough.
+
+
+🙏 Acknowledgment
+This task was designed by
+Linus Östlund
+Sofia Bobadilla
+Gabriel Skoglund
+Arvid Siberov
